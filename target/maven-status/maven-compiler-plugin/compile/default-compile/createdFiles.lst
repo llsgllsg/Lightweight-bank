@@ -1,0 +1,3 @@
+com\example\syncinventory\InventorySerializer.class
+com\example\syncinventory\InventorySyncListener.class
+com\example\syncinventory\SyncInventoryPlugin.class
